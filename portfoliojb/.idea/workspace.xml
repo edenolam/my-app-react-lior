@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdd603a2-a427-4dce-bf8e-40462b1a393b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MySQL Tutorial for Beginners [Full Course]/.idea/MySQL Tutorial for Beginners [Full Course].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/.idea/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createPdfPhp/.idea/createPdfPhp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createPdfPhpSendMail/.idea/createPdfPhpSendMail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edenolam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edenolam/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edenolam/.idea/edenolam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edenolam/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edenolam/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edenolam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edenolam/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-docker/.idea/hello-docker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsgrafikart/.idea/jsgrafikart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsmosh/.idea/jsmosh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnruby/.idea/learnruby.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lms.universalmedica.com/.idea/lms.universalmedica.com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minichat/.idea/minichat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/.idea/news.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node-project/.idea/node-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nodejsapp/.idea/nodejsapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phppooEmmanuelRavrat/.idea/phppooEmmanuelRavrat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pooLiorChamlaApprentissage/.idea/pooLiorChamlaApprentissage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/jb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cv-dev-julien-basquin.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../protectcovid/.idea/protectcovid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonproject/.idea/pythonproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testVue/.idea/testVue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testjquery/.idea/testjquery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testporno/.idea/testporno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_list_php/.idea/todo_list_php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutoMessenger/.idea/tutoMessenger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutosql/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vueOpenClassRoom/.idea/vueOpenClassRoom.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28cIyKQBinmlW2M2yEwecKLqJOf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "/home/jbasquin/PhpstormProjects/portfoliojb",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/style" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdd603a2-a427-4dce-bf8e-40462b1a393b" name="Changes" comment="" />
+      <created>1651509700493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651509700493</updated>
+      <workItem from="1651509701684" duration="205000" />
+      <workItem from="1651509914572" duration="4796000" />
+      <workItem from="1651531913084" duration="627000" />
+      <workItem from="1652343440959" duration="217000" />
+      <workItem from="1652361086354" duration="9044000" />
+      <workItem from="1652437474440" duration="796000" />
+      <workItem from="1652465839009" duration="1902000" />
+      <workItem from="1652557014004" duration="3994000" />
+      <workItem from="1652610302412" duration="1430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

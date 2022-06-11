@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8158199a-bfa1-47c8-9044-c8864fd3b7d1" name="formationhebreux" url="http://www.formationhebreux.edenolam.com">
+        <fileTransfer rootFolder="/domains/edenolam.com/public_html/formationhebreux" host="185.166.188.94" port="21" />
+      </webServer>
+    </option>
+  </component>
+</project>
