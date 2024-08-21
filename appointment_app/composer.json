@@ -1,0 +1,15 @@
+{
+    "name": "jbasquin/appointment_app",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "julien basquin",
+            "email": "julienbasquin.jb@gmail.com"
+        }
+    ],
+    "require": {}
+}
